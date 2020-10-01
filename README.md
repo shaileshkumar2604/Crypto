@@ -11,3 +11,5 @@ Enter the command :
 chmod +x crypto.sh
   
 Happy Crypting
+
+> to decrypt is to not to encrypt
